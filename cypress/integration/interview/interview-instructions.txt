@@ -1,0 +1,29 @@
+[ ] Visit '/join-now'
+[ ] Should see form with email and zipcode fields
+[ ] Enter email and zipcode
+[ ] Should see 'choose a plan' section
+[ ] Select a meal plan
+[ ] Should see 'choose a delivery day' section
+[ ] Select a delivery day from available options
+[ ] Click 'Next'
+[ ] Should see 'meal selection' section
+[ ] Select number of meals to match selected plan
+[ ] Click 'Next'
+[ ] Should see 'checkout' section
+[ ] Should see 'Order Summary' panel with accurate info
+[ ] Should see 'My Meals' panel with accurate info
+[ ] Should see 3 steps: Create Account, Delivery Address, Payment Info
+[ ] Should start on Create Account step
+[ ] Complete 'create account' form
+[ ] Click 'Next'
+[ ] Should be on Delivery Address step
+[ ] Complete the 'delivery address' form
+[ ] Click 'Next'
+[ ] Should be on 'Payment Info' step
+[ ] Complete 'payment info form'
+[ ] Click 'Submit Order'
+[ ] Should be redirected to: 'join-now/purchase-complete'
+[ ] Should see a 'success' message
+[ ] Should eventually be redirected to: '/subscriptions/{subscriptionId}'
+[ ] Should see an attribution channel form
+[ ] Should see subscription dashboard
