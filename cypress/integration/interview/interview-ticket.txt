@@ -1,0 +1,3 @@
+When a new user goes through the Join Now flow with valid data
+Then it successfully signs them up as a new customer with an active subscription
+And they are redirected to their subscription dashboard
